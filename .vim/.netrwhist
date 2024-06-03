@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =4
+let g:netrw_dirhist_4='/home/idan/Downloads/ida-free'
+let g:netrw_dirhist_3='/home/idan/.config/alacritty'
+let g:netrw_dirhist_2='/home/idan/.config/alacritty/themes'
+let g:netrw_dirhist_1='/home/idan/.config/alacritty/themes/themes'
